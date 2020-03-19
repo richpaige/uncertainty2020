@@ -30,13 +30,17 @@ We welcome flash talk proposals in the form of extended abstracts (maximum 2 pag
 ### Important Dates:
 
 Submission deadline: 15 July, 2020
+
 Notification: 14 August, 2020
+
 Workshop date: October 2020 (tba)
 
 ### Organizers and Contact Details:
 
-Fiona Polack (Keele University, UK)					
+Fiona Polack (Keele University, UK)			
+
 Michalis Famelis (Université de Montréal)
+
 Richard Paige (McMaster University, Canada and University of York, UK)	
 
 
