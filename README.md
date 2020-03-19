@@ -1,37 +1,42 @@
-## Welcome to GitHub Pages
+## 1st Uncertainty in Modeling Workshop 2020
+### Co-located with the ACM/IEEE 213rd International Conference on Model Driven Engineering Languages and Systems, 18-23 October 2020 in Montreal, Canada
 
-You can use the [editor on GitHub](https://github.com/richpaige/uncertainty2020/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+### Theme and Goals:
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Uncertainty is becoming a focus of interest in software and systems engineering.  Within the Models community, the OMG Working Group on Uncertainty has been a focus for the semantics of uncertainty and modelling activities for several years.   Interest in uncertainty arises in complex areas such as assurance, and large-scale simulation.  For example, in agent simulation engineering there is a need to be able to track uncertainties in developing, and interpreting  the  results  of,  research  simulations. Moving beyond control of uncertainty, researchers in ”systems of systems”, or engineered complex systems, are increasingly aware that the presence of unrecognised  uncertainties  can  destroy  assurance  which  carefully  argues  for  the mitigation of all identified hazards or risks. 
 
-### Markdown
+This workshop seeks participation from anyone, whether from academia or industry, who seeks to  understand  how  uncertainty  interferes  with  our  engineering  certainties and assumptions, whether to control it, to recognise and work with it, or to measure it and its effects. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+The objective of the workshop is to expose, compare and synthesise approaches to and challenges of uncertainty in software and systems engineering.  To achieve this, we propose a workshop format of short presentations on any aspect or form of uncertainty, followed by problem-specific or domain-specific discussion sessions accessible to academic and industrial practitioners. 
 
-```markdown
-Syntax highlighted code block
+### Workshop Format:
 
-# Header 1
-## Header 2
-### Header 3
+We aim to provide a discussion forum that helps the MODELS 2020 community to start to accommodate many aspects of uncertainty, departing from the traditional workshop format (i.e., mini conference). Instead, we call for proposals for “flash talks” describing “uncertainty in modelling and engineering”, in the form of (extended) abstracts of two pages or presentation slides. Through this, we aim to lower the contribution barrier for academic and industrial practitioners alike, and attract interesting contributions to challenges in. Some potential areas of interest are:
 
-- Bulleted
-- List
+- types and sources of uncertainty (ontologies, taxonomies, metamodels)
+- the need to express incomplete information in conceptual designs
+- complex engineering or simulation, where we either lack knowledge about aspects of the simulation target or we cannot feasibly compute all the complex interactions at many scales that are implicated in the simulation subject
+- multi-system engineering, with a need to express unforeseen system interactions, including those on the interface between software and hardware systems, whether to design mitigations or to argue assurance of safety, security or other properties
+- measurement or quantification of uncertainty, e.g. as ratings or probabilities
+- ways to working around uncertainty, in areas such as fuzzy logics, statistical or Bayesian inference
+- uncertainty in learning behaviours, e.g. through applying artificial intelligence techniques to representations of systems
 
-1. Numbered
-2. List
+Contributions will be evaluated with respect to their relevance, practicality, grandness, and soundness of challenges with respect to the MODELS community. The reviews will also filter challenges that are considered trivially solved.  Contributors will have the opportunity to contribute papers to a post-proceedings after the conference, so that the discoveries made at the workshop are incorporated into the proceedings by authors. 
 
-**Bold** and _Italic_ and `Code` text
+### Submission Details:
 
-[Link](url) and ![Image](src)
-```
+We welcome flash talk proposals in the form of extended abstracts (maximum 2 pages) or PDF presentations. Submissions must be in PDF format, accompanied by a presenter description (details on the workshop website), and submitted via [Easychair](http://www.easychair.org).
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### Important Dates:
 
-### Jekyll Themes
+Submission deadline: 15 July, 2020
+Notification: 14 August, 2020
+Workshop date: October 2020 (tba)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/richpaige/uncertainty2020/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### Organizers and Contact Details:
 
-### Support or Contact
+Fiona Polack (Keele University, UK)					
+Michalis Famelis (Université de Montréal)
+Richard Paige (McMaster University, Canada and University of York, UK)	
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
