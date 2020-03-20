@@ -23,13 +23,28 @@ We aim to provide a discussion forum that helps the MODELS 2020 community to sta
 
 Contributions will be evaluated with respect to their relevance, practicality, grandness, and soundness of challenges with respect to the MODELS community. The reviews will also filter challenges that are considered trivially solved.  Contributors will have the opportunity to contribute papers to a post-proceedings after the conference, so that the discoveries made at the workshop are incorporated into the proceedings by authors. 
 
+### Keynote speaker:
+
+We are pleased to announce that Tao Yue, Simula Research, Norway, has agreed to give the keynote talk.
+
 ### Submission Details:
 
-We welcome flash talk proposals in the form of extended abstracts (maximum 2 pages) or PDF presentations. Submissions must be in PDF format, accompanied by a presenter description (details on the workshop website), and submitted via [Easychair](http://www.easychair.org).
+We welcome flash talk proposals in the form of extended abstracts (maximum 2 pages) or slide deck presentations of a similar length. Submissions must be in PDF format, accompanied by a maximum 1-page presenter description (which does not count towards the page/PDF limit). Presenter descriptions should briefly outline the presenters' background and interest in uncertainty and modelling. A single PDF document containing both the proposal/presentation plus presenter description must be submitted via [Easychair](http://www.easychair.org).
+
+### Post-proceedings:
+
+Assuming that permission to publish post-proceedings is given, we will invite participants to submit a paper for the post-proceedings,  using Easychair, and the same format guidelines as MODELS (short papers of up to 5 pages; longer papers of up to 10
+pages).  Post-proceedings publication plan and dates will be available before the workshop.    
+Papers for the post-proceedings will be reviewed by our programme committee. 
+
+### Attendance:
+
+At least one author of each accepted presentation is expected to register for the conference. We will aim to support
+remote participation for a small number of presenters who are unable to travel.
 
 ### Important Dates:
 
-Submission deadline: 15 July, 2020
+Presentation proposal submission deadline: 15 July, 2020
 
 Notification: 14 August, 2020
 
@@ -42,5 +57,22 @@ Fiona Polack (Keele University, UK)
 Michalis Famelis (Université de Montréal)
 
 Richard Paige (McMaster University, Canada and University of York, UK)	
+
+### Program Committee (tentative)
+
+- Simona Bernardi, University of Zaragoza
+- Loli Burgueno, Open University of Catalonia
+- Romina Eramo, University of L'Aquila
+- Esther Guerra, Autonomous University of Madrid
+- Jean-Marc Jezequel, IRISA
+- Juan de Lara, Autonomous University of Madrid
+- Claudio Menghi, University of Luxembourg 
+- Raffaela Mirandola, Polytechnic University of Milan
+- Diego Perez, Linnaeus University 
+- Alfonso Pierantonio, University of L'Aquila
+- Bran Selic,  Monash University
+- Gabriele Taentzer, University of Marburg
+- Catia Trubiani, Gran Sasso Science Institute
+- Antonio Vallecillo, University of Malaga
 
 
