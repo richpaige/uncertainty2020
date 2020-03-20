@@ -34,7 +34,8 @@ We welcome flash talk proposals in the form of extended abstracts (maximum 2 pag
 ### Post-proceedings:
 
 Assuming that permission to publish post-proceedings is given, we will invite participants to submit a paper for the post-proceedings,  using Easychair, and the same format guidelines as MODELS (short papers of up to 5 pages; longer papers of up to 10
-pages).  Post-proceedings publication plan and dates will be available before the workshop.    
+pages).  Post-proceedings publication plan and dates will be available before the workshop.  
+
 Papers for the post-proceedings will be reviewed by our programme committee. 
 
 ### Attendance:
