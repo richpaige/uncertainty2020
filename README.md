@@ -29,7 +29,7 @@ We are pleased to announce that Tao Yue, Simula Research, Norway, has agreed to 
 
 ### Submission Details:
 
-We welcome flash talk proposals in the form of extended abstracts (maximum 2 pages) or slide deck presentations of a similar length. Submissions must be in PDF format, accompanied by a maximum 1-page presenter description (which does not count towards the page/PDF limit). Presenter descriptions should briefly outline the presenters' background and interest in uncertainty and modelling. A single PDF document containing both the proposal/presentation plus presenter description must be submitted via [Easychair](https://easychair.org/conferences/?conf=um20).
+We welcome flash talk proposals in the form of extended abstracts (maximum 2 pages) or slide deck presentations of a similar length. Submissions must be in PDF format, accompanied by a maximum 1-page presenter description (which does not count towards the page/PDF limit). Presenter descriptions should briefly outline the presenters' background and interest in uncertainty and modelling. A single PDF document containing both the proposal/presentation plus presenter description must be submitted via [Easychair](https://easychair.org/conferences/?conf=um20) (please open Easychair in a new tab).
 
 ### Post-proceedings:
 
@@ -45,7 +45,7 @@ remote participation for a small number of presenters who are unable to travel.
 
 ### Important Dates:
 
-Presentation proposal submission deadline: 15 July, 2020
+Presentation proposal submission deadline: 26 July, 2020
 
 Notification: 14 August, 2020
 
