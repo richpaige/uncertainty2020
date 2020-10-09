@@ -27,6 +27,27 @@ Contributions will be evaluated with respect to their relevance, practicality, g
 
 We are pleased to announce that Tao Yue, Simula Research, Norway, has agreed to give the keynote talk.
 
+### Program:
+
+All talks are flash talks of 5 minutes, followed by discussion
+
+1st session, followed by a break (Chair: Fiona Polack)
+0900-1000: Keynote by Tao Yue: Uncertainty in Software Systems: The Inconvenient Truth
+1000-1030: Two flash talks:
+- Nathalie Moreno, David Bandera, Manuel F. Bertoa, Carlos Canal, Alejandro Perez-Vereda, Paula Muñoz and Antonio Vallecillo. When do we really need to model uncertainty in software models?
+- Valdemar Vicente Graciano Neto, Mohamad Kassab, Bruno Gabriel Araújo Lebtag, Paulo Gabriel Teixeira, Ahmad Mohsin and Flavio Oquendo. Abstract Software Architectures to Deal with Constituents Uncertainties in Systems-of-Systems
+
+2nd session (11-11:45), followed by small internal break (Chair: Michalis Famelis)
+- Nelly Bencomo. On the Need of Modelling the Quantification of Uncertainty
+- Viola Wenz, Arno Kesper and Gabriele Taentzer. Classification of Uncertainty in Descriptive Data Representing Scientific Knowledge
+- Mouna Dhaouadi. A Design-Time Uncertainty-Aware Modeling Language
+- Matteo Camilli, Raffaela Mirandola, Patrizia Scandurra and Catia Trubiani. Towards Model-based Reinforcement Learning for Testing of Uncertain Software Systems
+
+3rd session (11:50-12:30), after the small internal break (Chair: Richard Paige)
+- Rima Al Ali, Jan Kofron and Lubomír Bulej. Incorporating Uncertainty Awareness in Self-Adaptive Cyber-Physical Systems
+- Tao Yue and Shaukat Ali. Empowering Model-based Engineering with the Cynefin Framework for Systematic Uncertainty Thinking
+- Fiona Polack, Richard Paige and Jon Timmis. Modelling, Uncertainty, and Complex Systems
+
 ### Submission Details:
 
 We welcome flash talk proposals in the form of extended abstracts (maximum 2 pages) or slide deck presentations of a similar length. Submissions must be in PDF format, accompanied by a maximum 1-page presenter description (which does not count towards the page/PDF limit). Presenter descriptions should briefly outline the presenters' background and interest in uncertainty and modelling. A single PDF document containing both the proposal/presentation plus presenter description must be submitted via [Easychair](https://easychair.org/conferences/?conf=um20) (please open Easychair in a new tab).
@@ -49,7 +70,7 @@ Presentation proposal submission deadline: 26 July, 2020
 
 Notification: 14 August, 2020
 
-Workshop date: October 2020 (tba)
+Workshop date: Tuesday 20 October 2020 
 
 ### Organizers and Contact Details:
 
@@ -59,7 +80,7 @@ Michalis Famelis (Université de Montréal)
 
 Richard Paige (McMaster University, Canada and University of York, UK)	
 
-### Program Committee (tentative)
+### Program Committee
 
 - Simona Bernardi, University of Zaragoza
 - Loli Burgueno, Open University of Catalonia
