@@ -32,20 +32,31 @@ We are pleased to announce that Tao Yue, Simula Research, Norway, has agreed to 
 All talks are flash talks of 5 minutes, followed by discussion
 
 1st session, followed by a break (Chair: Michalis Famelis)
+
 0900-1000: Keynote by Tao Yue: Uncertainty in Software Systems: The Inconvenient Truth
+
 1000-1030: Two flash talks:
+
 - Nathalie Moreno, David Bandera, Manuel F. Bertoa, Carlos Canal, Alejandro Perez-Vereda, Paula Muñoz and Antonio Vallecillo. When do we really need to model uncertainty in software models?
+
 - Valdemar Vicente Graciano Neto, Mohamad Kassab, Bruno Gabriel Araújo Lebtag, Paulo Gabriel Teixeira, Ahmad Mohsin and Flavio Oquendo. Abstract Software Architectures to Deal with Constituents Uncertainties in Systems-of-Systems
 
 2nd session (11-11:45), followed by small internal break (Chair: Fiona Polack)
+
 - Nelly Bencomo. On the Need of Modelling the Quantification of Uncertainty
+
 - Viola Wenz, Arno Kesper and Gabriele Taentzer. Classification of Uncertainty in Descriptive Data Representing Scientific Knowledge
+
 - Mouna Dhaouadi. A Design-Time Uncertainty-Aware Modeling Language
+
 - Matteo Camilli, Raffaela Mirandola, Patrizia Scandurra and Catia Trubiani. Towards Model-based Reinforcement Learning for Testing of Uncertain Software Systems
 
 3rd session (11:50-12:30), after the small internal break (Chair: Richard Paige)
+
 - Rima Al Ali, Jan Kofron and Lubomír Bulej. Incorporating Uncertainty Awareness in Self-Adaptive Cyber-Physical Systems
+
 - Tao Yue and Shaukat Ali. Empowering Model-based Engineering with the Cynefin Framework for Systematic Uncertainty Thinking
+
 - Fiona Polack, Richard Paige and Jon Timmis. Modelling, Uncertainty, and Complex Systems
 
 ### Submission Details:
